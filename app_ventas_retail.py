@@ -2,7 +2,7 @@
 #Paso 1: Configuración del Entorno Streamlit
 #Crea un archivo Python llamado app_ventas_retail.py o un nuevo notebook y descargalo como app_ventas_retail.py:
 # Install Streamlit
-!pip install streamlit
+#!pip install streamlit
 
 # Importaciones necesarias
 import streamlit as st
